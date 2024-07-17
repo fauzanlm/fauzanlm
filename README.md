@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Fauzan
 =======================================================================================================================================
 
-Backend Developer, ETL Developer and Fullstack Developer
+Software Engineer
 --------------------------------------------------------
 
 I've been learning to code for 5 years, I've enjoyed the learn everything about programming, working as professional programmer.
