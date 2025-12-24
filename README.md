@@ -10,7 +10,7 @@ Experienced over 5 years, I've enjoyed the learn everything about programming, w
 * 🖥️  See my portfolio at [Here](http://fauzanlm.my.id)
 * ✉️  You can contact me at [fauzan14072004@gmail.com](mailto:fauzan14072004@gmail.com)
 * 🚀  I'm currently working on [PT Maha Sentral Sejati](http://www.ptmss.co.id)
-* 🧠  I'm learning Web3
+* 🧠  I'm learning Ai Data Engineer
 * 🤝  I'm open to collaborating on Any Projects
 * ⚡  I love code :D
 
