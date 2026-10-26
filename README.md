@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Muhammad%20Fauzan&fontSize=42&fontAlignY=36&desc=Fullstack%20Developer%20%26%20ETL%20Specialist%20%7C%20Enterprise%20Systems&descFontSize=18&descAlignY=58&fontColor=f3f2f9&theme=tokyonight" width="100%" alt="Muhammad Fauzan - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Muhammad%20Fauzan&fontSize=42&fontAlignY=36&desc=Fullstack%20Developer%20%26amp%3B%20ETL%20Specialist%20%7C%20Enterprise%20Systems&descFontSize=18&descAlignY=58&fontColor=f3f2f9&theme=tokyonight" width="100%" alt="Muhammad Fauzan - Header Banner" />
 
   <p align="center">
     <a href="https://fauzanlm.my.id"><img src="https://img.shields.io/badge/Live_Portfolio-fauzanlm.my.id-252830?style=for-the-badge&logo=google-chrome&logoColor=78ffd1" alt="Portfolio" /></a>
