@@ -1,35 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Fauzan
-=======================================================================================================================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Muhammad%20Fauzan&fontSize=42&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20ETL%20Specialist%20%7C%20Enterprise%20Systems&descFontSize=18&descAlignY=60&fontColor=f3f2f9&theme=tokyonight" width="100%" />
 
-Software Engineer | Web3 Enthusiasm
---------------------------------------------------------
+  <p align="center">
+    <a href="https://fauzanlm.my.id"><img src="https://img.shields.io/badge/Live_Portfolio-fauzanlm.my.id-252830?style=for-the-badge&logo=google-chrome&logoColor=78ffd1" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-fauzanlm/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:fauzan14072004@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
-Experienced over 5 years, I've enjoyed the learn everything about programming, working as professional programmer.
+---
 
-* 🌍  I'm based in Jakarta, Indonesia
-* 🖥️  See my portfolio at [Here](http://fauzanlm.my.id)
-* ✉️  You can contact me at [fauzan14072004@gmail.com](mailto:fauzan14072004@gmail.com)
-* 🚀  I'm currently working on [PT Maha Sentral Sejati](http://www.ptmss.co.id)
-* 🧠  I'm learning Ai Data Engineer
-* 🤝  I'm open to collaborating on Any Projects
-* ⚡  I love code :D
+### 💼 Executive Overview
 
-### Skills
+Experienced **Fullstack Developer & ETL Specialist** with **4+ years** of hands-on experience delivering mission-critical applications and data infrastructure for enterprise financial clients including **BCA** and **BCA Syariah**.
 
+- 🏢 **Current Role**: Fullstack Developer at **PT Maha Sentral Sejati**, architecting and managing scalable internal platforms serving **2,500+ active users** (internal teams & field sales).
+- 🏦 **Regulatory & Banking Track Record**: Engineered core regulatory reporting platforms for **Bank Indonesia (BI)** and **OJK** (ANTASENA, SLIK, LPS, APOLO) at PT Madani Intelsysdata.
+- ⚙️ **Core Tech Specialization**: `.NET Core`, `C#`, `Java (Spring Boot)`, `Next.js`, `Vue.js`, `SQL Server (SSIS/SSRS)`, `PostgreSQL`, `Flutter`, and `Metabase BI`.
+- ⚡ **Engineering Principles**: High data reliability, automated ETL workflows, performance optimization, and strict regulatory compliance.
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+---
+
+### 🏛️ Featured Enterprise Work & Case Studies
+
+| Project | Focus Area | Tech Stack | Impact |
+| :--- | :--- | :--- | :--- |
+| **ANTASENA Banking Compliance** | Bank Indonesia & OJK Reporting | `.NET`, `SQL Server`, `SSIS`, `SSRS` | 100% on-time financial data submission with zero regulatory compliance penalties |
+| **Enterprise BI Dashboards** | BCA & BCA Syariah Analytics | `Metabase`, `SQL Server`, `ETL Pipelines` | Real-time executive dashboards tracking KPI trends and operational data |
+| **MSS Operational Platform** | Enterprise ERP & Field Operations | `.NET Core`, `Vue.js`, `MySQL`, `Linux` | Scaled to **2,500+ daily active users** with 30% reduction in API response times |
+| **SheetPusher ETL Engine** | Automated Data Cleansing & Sync | `Python`, `Pandas`, `SQLAlchemy`, `PostgreSQL` | Automated complex tabular ingestion pipelines, eliminating manual data entry |
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="left">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & APIs** | `.NET Core`, `C#`, `Java (Spring Boot)`, `PHP (Laravel)`, `RESTful APIs`, `Microservices Architecture` |
+| **Data & ETL Engineering** | `Microsoft SQL Server (SSIS / SSRS)`, `PostgreSQL`, `MySQL`, `MariaDB`, `Metabase BI`, `Database Indexing & Tuning` |
+| **Frontend & Mobile** | `Next.js 15`, `React`, `Vue.js`, `Flutter (Dart)`, `TypeScript`, `JavaScript (ES6+)`, `Tailwind CSS` |
+| **DevOps & Infrastructure** | `Docker`, `Linux / Ubuntu Server Management`, `CI/CD Automation`, `Git & GitLab CI`, `Vercel` |
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzanlm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=252830&title_color=78ffd1&icon_color=78ffd1&text_color=f3f2f9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanlm&layout=compact&theme=tokyonight&hide_border=true&bg_color=252830&title_color=78ffd1&icon_color=78ffd1&text_color=f3f2f9" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanlm&theme=tokyonight&hide_border=true&background=252830&ring=78ffd1&fire=78ffd1&currStreakLabel=78ffd1" width="98%" />
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/fauzanlm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mhmmd_fzn14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-fauzan-348446209/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/fauzanlm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanlm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/fauzanlm/ppdb-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fauzanlm&repo=ppdb-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <p>💡 <i>"Engineering robust, scalable software architectures that turn complex data into strategic business value."</i></p>
+  <p>© 2026 Muhammad Fauzan • <a href="https://fauzanlm.my.id">fauzanlm.my.id</a></p>
+</div>
